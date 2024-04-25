@@ -45,4 +45,4 @@ html: "<p>Testing message again lol</p>",
 
 Just make a PR or fork and we will look at it.
 
-Try to keep the code quality consistent and same with the formatting.
+Try to keep the code quality consistent with the formatting.
